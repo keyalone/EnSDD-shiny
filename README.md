@@ -14,4 +14,4 @@ shiny::runApp('EnSDD-shiny-main')
 
 
 
-Please do not hesitate to contact Dr. Xiao-Fei Zhang at zhangxf@mail.ccnu.edu.cn to seek any clarifications regarding any contents or operation of the archive.
+Please do not hesitate to contact Dr. Xiao-Fei Zhang at [zhangxf\@ccnu.edu.cn](mailto:zhangxf@ccnu.edu.cn){.email} to seek any clarifications regarding any contents or operation of the archive.
