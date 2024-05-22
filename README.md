@@ -2,7 +2,10 @@
 
 Source code of Shiny Application of EnSDD
 
-Download the example data from [zenodo](https://doi.org/10.5281/zenodo.11218339)
+download 
+the human breast cancer datasets，including spatial gene expression and spatial meta information
+from [zenodo](https://zenodo.org/records/11244180) and the morphology image from 
+[Image(TIFF)](https://www.10xgenomics.com/datasets/human-breast-cancer-block-a-section-1-1-standard-1-1-0).
 The source codes for running the shiny is avaible from [EnSDD](https://github.com/keyalone/EnSDD)
 To use Shiny APP, please download the code, run the shiny application
 
@@ -14,4 +17,4 @@ shiny::runApp('EnSDD-shiny-main')
 
 
 
-Please do not hesitate to contact Dr. Xiao-Fei Zhang at [zhangxf\@ccnu.edu.cn](mailto:zhangxf@ccnu.edu.cn){.email} to seek any clarifications regarding any contents or operation of the archive.
+Please do not hesitate to contact Prof. Xiao-Fei Zhang at [zhangxf\@ccnu.edu.cn](mailto:zhangxf@ccnu.edu.cn){.email} to seek any clarifications regarding any contents or operation of the archive.
